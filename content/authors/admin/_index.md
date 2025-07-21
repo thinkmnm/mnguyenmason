@@ -33,17 +33,17 @@ profiles:
   - icon: at-symbol
     url: 'mailto:mnguyenmason@g.harvard.edu'
     label: E-mail Me
-  - #icon: brands/x
+  #- icon: brands/x
     #url: https://twitter.com/GetResearchDev
-  - #icon: brands/instagram
+  #- icon: brands/instagram
     #url: https://www.instagram.com/
-  - #icon: brands/github
+  #- icon: brands/github
     #url: https://github.com/gcushen
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/michael-nguyen-mason-67851892
-  - #icon: academicons/google-scholar
+  #- icon: academicons/google-scholar
     #url: https://scholar.google.com/
-  - #icon: academicons/orcid
+  #- icon: academicons/orcid
     #url: https://orcid.org/
 
 interests:
@@ -55,7 +55,7 @@ education:
   - area: Ph.D. in Health Policy (Economics)
     institution: Harvard University
     date_start: 2020-08-01
-    date_end: Present
+    date_end: ""
     summary: |
       Honors and Awards:
       - NSF Graduate Student Fellowship 

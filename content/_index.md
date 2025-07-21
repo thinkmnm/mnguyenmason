@@ -61,7 +61,7 @@ sections:
       text: ""
       filters:
         folders:
-          - publication/preprint
+          - publication
         exclude_featured: false
     design:
       view: citation

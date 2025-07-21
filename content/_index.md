@@ -35,11 +35,13 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I research the economic incentives that determine the direction of medical innovation. Who and what do we innovate for? 
         
-        Please reach out to collaborate 😃
+        My current research primarily uses quantitiative methods to investigate the role that demographic distributions play in who benefits and who pays for medical innovation. In particular, I have been interested in how identity effects innovation outcomes in entrepeneurial finance. 
+        
+        Other interests for future research include the role of political economy on priority setting for medical innovation both in the private markets (foundations, patient advocacy, etc) and policy (lobbying, FDA revolving door, etc).
+        
+        Please reach out to collaborate!
     design:
       columns: '1'
   - block: collection

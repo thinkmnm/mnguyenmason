@@ -57,12 +57,12 @@ education:
     date_start: 2020-08-01
     date_end: Present
     summary: |
-       Honors and Awards:
+      Honors and Awards:
       - NSF Graduate Student Fellowship 
       - NBER visiting scholar (Health Economics)
       - ASHE 2025 Diversity Scholar 
       
-       Dissertation: "Does gender homophily matter for medical innovation? Evidence from VC investment in life sciences start-ups", advised by [Leila Agha](https://hcp.hms.harvard.edu/people/leila-agha), [Luca Maini](https://www.lucamaini.com/), and [Josh Lerner](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=9961)
+      Dissertation: "Does gender homophily matter for medical innovation? Evidence from VC investment in life sciences start-ups", advised by [Leila Agha](https://hcp.hms.harvard.edu/people/leila-agha), [Luca Maini](https://www.lucamaini.com/), and [Josh Lerner](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=9961)
 
     #button:
       #text: 'Read Thesis'
@@ -78,7 +78,7 @@ education:
       - Honors in Economics
       - Alumni Association Leadership Award
 
-      Homors thesis: 
+      Honors thesis: ""
  #- area: BSc Artificial Intelligence
    # institution: Massachusetts Institute of Technology
    # date_start: 2016-01-01

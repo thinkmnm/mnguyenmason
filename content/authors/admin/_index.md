@@ -47,7 +47,7 @@ profiles:
     #url: https://orcid.org/
 
 interests:
-  - Determinants of medical innovatipon
+  - Determinants of medical innovation
   - Entrepeneurial finance
   - Equity
 
@@ -123,19 +123,19 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Stata
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: Data science
         description: ''
-        percent: 40
+        percent: 80
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Rock climbing
         description: ''
         percent: 60
         icon: person-simple-walk
@@ -143,7 +143,7 @@ skills:
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Travel
         description: ''
         percent: 80
         icon: camera

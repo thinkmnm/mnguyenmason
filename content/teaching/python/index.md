@@ -1,13 +1,13 @@
 ---
-title: Learn Python
-summary: Easily learn Python in 10 minutes!
-date: 2023-10-24
+title: Resources, Choices, and Incentives - Analysis of Public Policy (API 102A)
+summary: Served as a graduate student instrutor for 3 years. This course served as one of the core economics courses for Harvard's Master in Public Policy and focused on the economic inventives and tradeoffs relevant for social policy.
+date: 2021-02-01
 type: docs
 math: false
 tags:
   - Python
 image:
-  caption: 'Embed rich media such as videos and LaTeX math'
+  caption: ''
 ---
 
 [Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.

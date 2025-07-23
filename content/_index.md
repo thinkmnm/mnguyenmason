@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ""
+title: "Michael Nguyen-Mason"
 date: 2025-07-21
 type: landing
 
@@ -57,8 +57,8 @@ sections:
       #columns: 2
   - block: collection
     content:
-      title: Dissertation - Essays on the economics of directed medical innovation
-      text: "This series of papers serves as my dissertation and explores the economic incentives driving the direction of medical innovation."
+      title: Dissertation Papers
+      text: "Essays on the economics of directed medical innovation."
       filters:
         folders:
           - publication

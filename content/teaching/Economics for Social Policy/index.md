@@ -5,7 +5,7 @@ date: 2021-02-01
 type: docs
 math: false
 tags:
-  - Python
+  - Economics for Social Policy
 image:
   caption: ''
 ---

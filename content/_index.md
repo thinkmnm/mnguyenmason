@@ -37,9 +37,9 @@ sections:
       text: |-
         I research the economic incentives that determine the direction of medical innovation. Who and what do we innovate for? 
         
-        My current research primarily uses quantitiative methods to investigate the role that demographic distributions play in who benefits and who pays for medical innovation. In particular, I have been interested in how identity effects innovation outcomes in entrepeneurial finance. 
+        My current research uses quantitiative methods to investigate the role that demographic distributions play in who benefits and who pays for medical innovation. In particular, I am focused on how individual identities of founder and investor impact innovation outcomes in early-stage private capital markets. 
         
-        Other interests for future research include the role of political economy on priority setting for medical innovation both in the private markets (foundations, patient advocacy, etc) and policy (lobbying, FDA revolving door, etc).
+        My other interest for future research examines the role of the political economy on priority setting for medical innovation. I am interested both in the private market (foundations, patient advocacy, etc) and policy (lobbying, FDA revolving door, etc) mechanisms.
         
         Please reach out to collaborate!
     design:
@@ -57,8 +57,8 @@ sections:
       #columns: 2
   - block: collection
     content:
-      title: Papers
-      text: ""
+      title: Dissertation - Essays on the economics of directed medical innovation
+      text: "This series of papers serves as my dissertation and explores the economic incentives driving the direction of medical innovation."
       filters:
         folders:
           - publication

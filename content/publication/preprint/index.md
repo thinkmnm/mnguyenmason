@@ -2,6 +2,10 @@
 title: "Distributional incidence of medical price inflation (JMP)"
 authors:
 - admin
+- Jon Kolstad
+- Xavier Jaravel
+- Kurt Lavetti
+
 date: "2025-04-07T00:00:00Z"
 doi: ""
 

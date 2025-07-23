@@ -85,6 +85,17 @@ sections:
     design:
       view: article-grid
       columns: 1
+  
+  - block: collection
+    id: teaching
+    content:
+      title: Courses Taught
+      filters:
+        folders:
+          - teaching
+    design:
+      view: article-grid
+      columns: 1
   #- block: collection
     #id: news
     #content:

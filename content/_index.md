@@ -65,6 +65,16 @@ sections:
         exclude_featured: false
     design:
       view: citation
+  # 2. Awards section  ←  new
+  - block: resume-awards         # <── tells Wowchemy which block to render
+    content:
+      title: Awards & Honors      # heading shown on the page
+      username: admin             # folder name in content/authors/
+    #design:
+      # optional tweaks
+      #date_format: "Jan 2006"     # controls date display
+      #columns: 2           
+
   - block: collection
     id: talks
     content:

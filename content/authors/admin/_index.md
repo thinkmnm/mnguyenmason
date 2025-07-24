@@ -92,7 +92,7 @@ education:
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
-experience:
+work:
   - position: Research Assistant
     company_name: National Bureau of Economic Research
     company_url: "https://www.nber.org"

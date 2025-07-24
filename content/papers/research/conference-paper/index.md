@@ -28,6 +28,7 @@ tags:
 - homophily
 - stereotyping
 
+draft: false
 featured: true
 
 #links:

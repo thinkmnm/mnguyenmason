@@ -6,6 +6,9 @@ authors:
 - Xavier Jaravel
 - Kurt Lavetti
 
+draft: false
+featured: true
+
 date: "2025-04-07T00:00:00Z"
 doi: ""
 

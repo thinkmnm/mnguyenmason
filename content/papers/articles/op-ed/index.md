@@ -29,6 +29,7 @@ tags:
 - pharmaceuticals
 - biotech
 
+draft: false
 featured: true
 
 links:

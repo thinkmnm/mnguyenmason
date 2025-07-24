@@ -12,7 +12,7 @@ sections:
       text: "Essays on the economics of directed medical innovation."
       filters:
         folders:
-          - papers/research      # path under content/
+          - papers-research      # path under content/
         exclude_featured: false  # optional
       order: desc                 # newest first (optional)
       count: 0                    # 0 = show all (optional)
@@ -27,7 +27,7 @@ sections:
       #text: ""                  # add intro text if you want
       filters:
         folders:
-          - papers/op-ed         # path under content/
+          - papers-op-ed         # path under content/
       order: desc
     design:
       view: citation

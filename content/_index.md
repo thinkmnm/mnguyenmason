@@ -1,12 +1,12 @@
 ---
 # Leave the homepage title empty to use the site title
-title: "Michael Nguyen-Mason"
+title: ""
 date: 2025-07-21
 type: landing
 
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing: "5rem"
 
 sections:
   - block: resume-biography-3
@@ -26,7 +26,7 @@ sections:
           # Add your image background to `assets/media/`.
           filename: stacked-peaks.svg
           filters:
-            brightness: .5
+            brightness: .75
           size: cover
           position: center
           parallax: false
@@ -95,7 +95,7 @@ sections:
           - teaching
     design:
       view: article-grid
-      columns: 1
+      columns: 2
   #- block: collection
     #id: news
     #content:

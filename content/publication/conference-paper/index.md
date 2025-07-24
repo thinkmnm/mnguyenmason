@@ -2,7 +2,7 @@
 title: "Why are there so few women founders in medical innovation? Evidence from gender homophily in VC investment in health (JMP)"
 authors:
 - admin
-date: "2025-04-07T00:00:00Z"
+date: "2025-07-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

@@ -61,7 +61,7 @@ sections:
       text: "Essays on the economics of directed medical innovation."
       filters:
         folders:
-          - research
+          - papers/research
         exclude_featured: false
     design:
       view: citation

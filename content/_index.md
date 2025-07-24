@@ -74,7 +74,7 @@ sections:
       text: "Essays on the economics of directed medical innovation"                     # optional intro
       filters:
         folders:
-          - papers/research        # path under content/
+          - research        # path under content/
         featured_only: true        # OPTIONAL: only show items you mark featured: true
       count: 3                     # show only 3 (set 0 to show all)
     design:

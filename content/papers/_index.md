@@ -11,7 +11,7 @@ sections:
       text: "Essays on the economics of directed medical innovation."
       filters:
         folders:
-          - research
+          - papers/research
       order: desc
     design:
       view: citation
@@ -22,7 +22,7 @@ sections:
       title: Op-Eds
       filters:
         folders:
-          - op-ed
+          - papers/op-ed
       order: desc
     design:
       view: citation

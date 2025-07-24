@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ""
+title: "Michael Nguyen-Mason"
 date: 2025-07-21
 type: landing
 
@@ -93,6 +93,8 @@ sections:
       filters:
         folders:
           - teaching
+        featured_only: true
+      count: 2
     design:
       view: article-grid
       columns: 2

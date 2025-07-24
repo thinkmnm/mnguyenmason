@@ -4,6 +4,7 @@ summary: Served as lead economics, student economics tutor at UC Berkeley's Stud
 date: 2017-02-01
 type: docs
 math: false
+featured: true
 tags:
   - Student Learning Center (Economics)
 image:

@@ -48,8 +48,9 @@ profiles:
 
 interests:
   - Determinants of medical innovation
-  - Entrepeneurial finance
-  - Equity
+  - Scientific entrepeneurship
+  - Health equity
+  - Endogenous policy setting
 
 education:
   - area: Ph.D. in Health Policy (Economics)
@@ -187,4 +188,4 @@ awards:
 
 ## About Me
 
-Michael Nguyen-Mason is a PhD candidate in Health Policy and Economics at Harvard. Before Harvard Michael received his BA at UC Berkeley where he worked as an RA studying the role of competition in health insurance markets. Since coming to Harvard his interests have turned to the intersection of innovation, entrepreneurship, and equity with a particular interest in the early stage of investment in biotech innovation. Michael is an NSF scholar and is advised by  [Leila Agha](https://hcp.hms.harvard.edu/people/leila-agha), [Luca Maini](https://www.lucamaini.com/), and [Josh Lerner](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=9961)
+Michael Nguyen-Mason is a PhD candidate in Health Policy and Economics at Harvard. Before Harvard Michael received his BA at UC Berkeley where he worked as an RA studying the role of competition in health insurance markets. Since coming to Harvard his interests have turned to the intersection of innovation, entrepreneurship, and health equity with a particular interest in the early stage of investment in biotech innovation. Michael is funded by the NSF graduate student fellowship and is advised by  [Leila Agha (Chair)](https://hcp.hms.harvard.edu/people/leila-agha), [Luca Maini](https://www.lucamaini.com/), and [Josh Lerner](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=9961)

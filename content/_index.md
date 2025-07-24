@@ -55,16 +55,7 @@ sections:
     #design:
      # view: article-grid
       #columns: 2
-  - block: collection
-    content:
-      title: Dissertation Papers
-      text: "Essays on the economics of directed medical innovation."
-      filters:
-        folders:
-          - papers-research
-        exclude_featured: false
-    design:
-      view: citation
+
   # 2. Awards section  ←  new
   - block: resume-awards         # <── tells Wowchemy which block to render
     content:
@@ -74,6 +65,21 @@ sections:
       # optional tweaks
       #date_format: "Jan 2006"     # controls date display
       #columns: 2           
+
+
+  - block: collection
+    id: research-home
+    content:
+      title: Dissertation Research
+      text: "Essays on the economics of directed medical innovation"                     # optional intro
+      filters:
+        folders:
+          - papers/research        # path under content/
+        featured_only: true        # OPTIONAL: only show items you mark featured: true
+      count: 3                     # show only 3 (set 0 to show all)
+    design:
+      view: citation               # or article-grid, card, etc.
+      columns: 1
 
   - block: collection
     id: talks

@@ -91,6 +91,34 @@ education:
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
+experience:
+  - position: Research Assistant
+    company_name: National Bureau of Economic Research
+    company_url: "https://www.nber.org"
+    location: Cambridge, MA
+    date_start: "2024-08-01"
+    date_end: ""             # empty string = “Present”
+    summary: |-
+      - Worked with XXX on YYY.
+      - Built datasets, ran Stata/Python analyses.
+    tags: ["research"]
+
+  - position: Research Fellow
+    company_name: Harvard Health Policy
+    company_url: "https://healthpolicy.fas.harvard.edu"
+    location: Cambridge, MA
+    date_start: "2022-09-01"
+    date_end: "2023-08-31"
+    summary: |-
+      - Co-authored paper on ZZZ.
+      - Led RA team of four.
+    tags: ["research"]
+
+
+
+
+
 #work:
  # - position: Director of Cloud Infrastructure
     #company_name: GenCoin

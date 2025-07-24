@@ -22,7 +22,7 @@ sections:
       title: Op-Eds
       filters:
         folders:
-          - papers/op-ed
+          - papers/articles/op-ed
       order: desc
     design:
       view: citation

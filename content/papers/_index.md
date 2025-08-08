@@ -18,7 +18,7 @@ sections:
       view: list
 
   - block: collection
-    id: opeds
+    id: op-ed
     content:
       title: "Op-Eds"
       filters:

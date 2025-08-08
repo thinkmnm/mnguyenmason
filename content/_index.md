@@ -68,9 +68,8 @@ sections:
 
 
   - block: collection
-    id: research-home
+    id: research
     content:
-      page_type: publication   # ← add this
       title: Dissertation Research
       text: "Essays on the economics of directed medical innovation"                     # optional intro
       filters:

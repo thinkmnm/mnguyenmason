@@ -14,7 +14,7 @@ sections:
           - papers/research
       order: desc
     design:
-      view: citation
+      view: list
 
   - block: collection
     id: opeds
@@ -25,7 +25,7 @@ sections:
           - papers/articles/op-ed
       order: desc
     design:
-      view: citation
+      view: list
 
 banner:
   caption: ''

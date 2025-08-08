@@ -1,10 +1,16 @@
 ---
 title: "Papers and Articles"
 type: landing
-cms_exclude: true
+
+cascade:
+  - _target:
+      kind: page
+    params:
+      show_breadcrumb: true
+
+
 
 sections:
-
   - block: collection
     id: research
     content:
@@ -13,9 +19,8 @@ sections:
       filters:
         folders:
           - research
-      order: desc
     design:
-      view: list
+      view: citation
 
   - block: collection
     id: op-ed
@@ -24,9 +29,8 @@ sections:
       filters:
         folders:
           - op-ed
-      order: desc
     design:
-      view: list
+      view: citation
 
 banner:
   caption: ""

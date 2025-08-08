@@ -1,8 +1,15 @@
 ---
-title: "Why are there so few women founders in medical innovation? Evidence from gender homophily in VC investment in health (JMP)"
+title: "Distributional incidence of medical price inflation "
 authors:
 - admin
-date: "2025-07-07T00:00:00Z"
+- Jon Kolstad
+- Xavier Jaravel
+- Kurt Lavetti
+
+draft: false
+featured: true
+
+date: "2025-04-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,7 +24,7 @@ publication_types: ["article"]
 publication: "Work in progress"
 publication_short: ""
 
-abstract: This paper moves towards causally estimating the role that stereotyping and systemic mis-prediction plays in perpetuating the health entrepeneur gender gap. First, I document a persistent gender disparity in US-based, funded, health founders and investing general partners between 2005 and 2024. I find women make up only 12.2% of all funded health founders and 18% of investing GPs on average. I, then, investigate the phenomena of gender homophily, where investors disspraportionately invest in founders that share their gender identity. Applying a disparities based, differences-in-differences framework I find that a change in the city gender composition of GPs from all men to all women predicts a doubling in the share of funded health founders who are women in first round investments. Further, using an adapted outcomes test I find that men were 50% more likely to IPO when investing in women than when investing in men. These results together are consistent with VCs relying on gender steretypes to inform investing deecisions under high informational asymmetries.  
+abstract: Who bears the burden for the increasing cost of medical care in the United States? To do so we track individual level health expenditure and employer level insurance plan information a in Utah's All Payers Claims Database (APCD) and merge employee information with Utah's Payroll tax data. We then use a within-provider, measure of inflation to describe the distributional incidence of medical price inflation. 
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -28,7 +35,6 @@ tags:
 - homophily
 - stereotyping
 
-draft: false
 featured: true
 
 #links:
@@ -67,14 +73,13 @@ image:
 
 
 
+
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 
 {{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
+Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).

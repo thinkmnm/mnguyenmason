@@ -4,6 +4,7 @@ type: landing
 cms_exclude: true
 
 sections:
+
   - block: collection
     id: research
     content:
@@ -14,7 +15,7 @@ sections:
           - research
       order: desc
     design:
-      view: cards
+      view: list
 
   - block: collection
     id: opeds
@@ -25,7 +26,7 @@ sections:
           - articles/op-ed
       order: desc
     design:
-      view: citation
+      view: list
 
 banner:
   caption: ""

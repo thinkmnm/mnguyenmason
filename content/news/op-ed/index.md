@@ -1,12 +1,11 @@
 ---
-title: "Why are there so few women founders in medical innovation? Evidence from gender homophily in VC investment in health (JMP)"
-authors:
-- admin
+title: Philanthropy can help create a healthier biotech ecosystem
+
 date: "2025-07-07T00:00:00Z"
-doi: ""
+
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-01-01T00:00:00Z"
+publishDate: "2025-08-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -14,26 +13,25 @@ publishDate: "2025-01-01T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Work in progress"
+publication: STAT News Plus - First Opinion
 publication_short: ""
 
-abstract: This paper moves towards causally estimating the role that stereotyping and systemic mis-prediction plays in perpetuating the health entrepeneur gender gap. First, I document a persistent gender disparity in US-based, funded, health founders and investing general partners between 2005 and 2024. I find women make up only 12.2% of all funded health founders and 18% of investing GPs on average. I, then, investigate the phenomena of gender homophily, where investors disspraportionately invest in founders that share their gender identity. Applying a disparities based, differences-in-differences framework I find that a change in the city gender composition of GPs from all men to all women predicts a doubling in the share of funded health founders who are women in first round investments. Further, using an adapted outcomes test I find that men were 50% more likely to IPO when investing in women than when investing in men. These results together are consistent with VCs relying on gender steretypes to inform investing deecisions under high informational asymmetries.  
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - medical innovation
-- gender disparity
-- homophily
-- stereotyping
+- phianthropy
+- push and pull inventives
+- biotech
 
 draft: false
 featured: true
 
-#links:
-#- name: Custom Link
- # url: http://example.org
+links:
+- name: Article link
+  url: https://www.statnews.com/2025/03/24/biotech-startups-struggle-philanthropy-foundation-support-government/
 #url_pdf: http://arxiv.org/pdf/1512.04133v1
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: '#'

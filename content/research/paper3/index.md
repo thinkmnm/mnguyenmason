@@ -1,19 +1,19 @@
 ---
-title: "Distributional incidence of medical price inflatio"
+
+
+
+title: "Distributional health effects of drug innovation"
 authors:
 - admin
-- Jon Kolstad
-- Xavier Jaravel
-- Kurt Lavetti
-
-draft: false
-featured: true
-
+- Luca Maini
 date: "2025-04-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-01-01T00:00:00Z"
+
+draft: false
+featured: true
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -24,16 +24,18 @@ publication_types: ["article"]
 publication: "Work in progress"
 publication_short: ""
 
-abstract: Who bears the burden for the increasing cost of medical care in the United States? To do so we track individual level health expenditure and employer level insurance plan information a in Utah's All Payers Claims Database (APCD) and merge employee information with Utah's Payroll tax data. We then use a within-provider, measure of inflation to describe the distributional incidence of medical price inflation. 
+abstract: This paper creates a set of novel indexes to quantify the health impacts of drug innovation.  First, using a representative sample of drug utilization and diagnoses from the Medical Health Expenditure Panel Survey (MEPS) we define two populations of drug beneficiaries (i) individuals who could benefit from a drug based on diagnosis and (ii) individuals who directly benefit from utilization of a drug. We, then, take clinical measures of Quality Adjusted Life Years (QALY) from the Cost Effectiveness Analysis (CEA) database and derive an index of health gain for the intended population of treatment and an index for the population who actually benefit. Finally, we compare health gains across race, income, and education.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - medical innovation
-- gender disparity
-- homophily
-- stereotyping
+- drugs
+- race
+- income
+- education
+- equity
 
 featured: true
 
@@ -71,15 +73,3 @@ image:
 #   Otherwise, set `slides: ""`.
 #slides: example
 
-
-
-
----
-
-This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).

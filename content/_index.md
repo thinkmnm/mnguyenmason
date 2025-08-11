@@ -93,6 +93,18 @@ sections:
       columns: 1
   
   - block: collection
+    id: news
+    content:
+      title: Written Op-Eds
+      filters:
+        folders:
+          - news
+    design:
+      view: article-grid
+      columns: 1
+
+
+  - block: collection
     id: teaching
     content:
       title: Courses Taught

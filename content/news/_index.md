@@ -1,6 +1,6 @@
 ---
-title: Research
-summary: Academic Research Projects
+title: News
+summary: Written articles by or about Michael and his research
 type: landing
 
 cascade:
@@ -11,12 +11,12 @@ cascade:
 
 sections:
   - block: collection
-    id: research
+    id: news
     content:
-      title: Dissertation Research
+      title: Written Op-Eds
       filters:
         folders:
-          - research
+          - news
     design:
       view: article-grid
       columns: 2

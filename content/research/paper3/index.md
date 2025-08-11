@@ -1,7 +1,6 @@
 ---
 
 
-
 title: "Distributional health effects of drug innovation"
 authors:
 - admin

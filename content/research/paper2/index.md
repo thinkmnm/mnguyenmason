@@ -1,5 +1,5 @@
 ---
-title: "Distributional incidence of medical price inflatio"
+title: "Distributional incidence of medical price inflation"
 authors:
 - admin
 - Jon Kolstad

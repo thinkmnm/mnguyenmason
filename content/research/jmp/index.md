@@ -66,7 +66,6 @@ image:
 #slides: example
 
 
-
 ---
 
 {{% callout note %}}

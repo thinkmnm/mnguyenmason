@@ -21,5 +21,5 @@ sections:
       view: article-grid
       columns: 2
 
-  
+
 ---

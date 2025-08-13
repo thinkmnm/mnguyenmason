@@ -1,5 +1,5 @@
 ---
-title: Uncertain Science, Certain Bias: Drivers of Gender Homophily in VC Investment in Health
+title: Uncertain Science, Certain Bias - Drivers of Gender Homophily in VC Investment in Health
 authors:
 - admin
 date: "2025-07-07T00:00:00Z"

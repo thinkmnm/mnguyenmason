@@ -1,5 +1,5 @@
 ---
-title: "Why are there so few women founders in medical innovation? Evidence from gender homophily in VC investment in health (JMP)"
+title: Uncertain Science, Certain Bias: Drivers of Gender Homophily in VC Investment in Health
 authors:
 - admin
 date: "2025-07-07T00:00:00Z"
@@ -17,7 +17,7 @@ publication_types: ["article"]
 publication: "Work in progress"
 publication_short: ""
 
-abstract: This paper moves towards causally estimating the role that stereotyping and systemic mis-prediction plays in perpetuating the health entrepeneur gender gap. First, I document a persistent gender disparity in US-based, funded, health founders and investing general partners between 2005 and 2024. I find women make up only 12.2% of all funded health founders and 18% of investing GPs on average. I, then, investigate the phenomena of gender homophily, where investors disspraportionately invest in founders that share their gender identity. Applying a disparities based, differences-in-differences framework I find that a change in the city gender composition of GPs from all men to all women predicts a doubling in the share of funded health founders who are women in first round investments. Further, using an adapted outcomes test I find that men were 50% more likely to IPO when investing in women than when investing in men. These results together are consistent with VCs relying on gender steretypes to inform investing deecisions under high informational asymmetries.  
+abstract: Does gender bias distort venture capital allocation in health? This paper uses gender homophily—the propensity of general partners (GPs) to fund same-gender entrepreneurs—to isolate inefficient bias from rational selection. This paper does this in two steps. First, a differences-in-differences–style specification is used to exploit within-city, over-time shifts in the share of women GPs while holding pre-investment costs (geographic distance, specialization mismatch) constant. Second, a test of differences in IPO and M&A outcomes is used to verify whether gender-concordant investments systematically outperform non-concordant investments. If not, observed homophily reflects inefficient bias rather than productive synergies. Estimated effects are large: while controlling for pre-investment costs, moving a city’s GP mix from all men to all women increases the share of women-founded in first-round deals by 11.6 percentage points (≈95%). Not only do concordant investments not yield higher rates of IPO or M&A, but non-concordant investments are 50% more likely to IPO where both men and women GPs leave money on the table – evidence that homophily is driven by inefficient bias. Finally, the homophily effect is sensitive to changes in asymmetric information pointing to stereotyping under uncertainty rather than taste-based discrimination. This study novelly uses causal methods to show that gender homophily operates as a channel for inefficient gender bias in health VC, with implications for capital misallocation and innovation.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -67,14 +67,3 @@ image:
 
 
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
-

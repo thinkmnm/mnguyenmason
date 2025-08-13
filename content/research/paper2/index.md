@@ -24,7 +24,7 @@ publication_types: ["article"]
 publication: "Work in progress"
 publication_short: ""
 
-abstract: Who bears the burden for the increasing cost of medical care in the United States? To do so we track individual level health expenditure and employer level insurance plan information a in Utah's All Payers Claims Database (APCD) and merge employee information with Utah's Payroll tax data. We then use a within-provider, measure of inflation to describe the distributional incidence of medical price inflation. 
+abstract: Who bears the burden for the increasing cost of medical care in the United States? This paper investigates the distributional incidence of medical price inflation and its effect on wages. To do so we track individual level health expenditure and employer level insurance plan information in Utah’s All Payers Claims Database (APCD) and merge employee information with Utah’s Payroll tax data. We then use a quality adjusted, within-provider, measure of inflation to describe the distributional incidence of medical price inflation across employees within a firm, households within a firm, and across employers. We find that, unlike consumer markets, inflation is not concentrated in lower income individuals or households. We find mixed evidence that higher income households experience higher price inflation, which implies that single premium, employer sponsored insurance is inherently a regressive transfer.  
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -75,11 +75,3 @@ image:
 
 
 ---
-
-This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).

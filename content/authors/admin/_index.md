@@ -24,7 +24,7 @@ role: PhD Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Harvard University - Health Policy 
+  - name: Harvard University - Health Policy (Economics)
     url: https://healthpolicy.fas.harvard.edu/people/michael-nguyen-mason
 
 # Social network links

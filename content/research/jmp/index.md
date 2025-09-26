@@ -31,10 +31,10 @@ tags:
 draft: false
 featured: true
 
-#links:
+links:
 #- name: Custom Link
  # url: http://example.org
-#url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://www.dropbox.com/scl/fi/uueujfmgiwh865jzwgzyi/JMP_NguyenMason.pdf?rlkey=ms7geetl3f64cf9ai5bjm5iys&st=68bkgmbu&dl=0
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: '#'
 #url_poster: '#'

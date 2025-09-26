@@ -15,7 +15,7 @@ sections:
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      button_list:
+      buttons:
         - text: Download CV
           url: uploads/mnguyenmason_cv_2025.pdf
         - text: Download Job Market Paper

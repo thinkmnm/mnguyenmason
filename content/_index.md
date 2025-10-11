@@ -16,8 +16,9 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        - text: Download CV
-          url: uploads/mnguyenmason_cv_2025.pdf
+        text: Download CV
+        url: uploads/mnguyenmason_cv_2025.pdf
+        
     design:
       css_class: dark
       background:

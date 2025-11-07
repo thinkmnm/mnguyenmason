@@ -50,7 +50,7 @@ interests:
   - Determinants of medical innovation
   - Scientific entrepeneurship
   - Health equity
-  - Endogenous policy setting
+  - Innovation policy
 
 education:
   - area: Ph.D. in Health Policy (Economics)

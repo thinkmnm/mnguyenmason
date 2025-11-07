@@ -9,6 +9,13 @@ title: Michael Nguyen-Mason
 first_name: Michael
 last_name: Nguyen-Mason
 
+
+
+avatar:
+  shape: circle
+  size: xxl
+
+  
 # Status emoji
 status:
   icon: 
@@ -99,9 +106,7 @@ work:
     location: Cambridge, MA
     date_start: "2024-08-01"
     date_end: ""             # empty string = “Present”
-    summary: |-
-      - Worked with XXX on YYY.
-      - Built datasets, ran Stata/Python analyses.
+    summary: 
     tags: ["research"]
 
   - position: Research Fellow
@@ -110,9 +115,7 @@ work:
     location: Cambridge, MA
     date_start: "2022-09-01"
     date_end: "2023-08-31"
-    summary: |-
-      - Co-authored paper on ZZZ.
-      - Led RA team of four.
+    summary:
     tags: ["research"]
 
 

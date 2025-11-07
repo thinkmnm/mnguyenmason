@@ -32,7 +32,7 @@ organizations:
 profiles:
   - icon: at-symbol
     url: 'mailto:mnguyenmason@g.harvard.edu'
-    label: E-mail Me
+    label: mnguyenmason@g.harvard.edu
   #- icon: brands/x
     #url: https://twitter.com/GetResearchDev
   #- icon: brands/instagram

@@ -1,0 +1,4 @@
+.avatar, .portrait, .hero-avatar {
+  width: 300px !important;
+  max-width: 300px !important;
+}

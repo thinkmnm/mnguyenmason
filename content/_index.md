@@ -14,6 +14,9 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: ""
+      avatar:
+        size: xxl
+      
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
@@ -42,7 +45,7 @@ sections:
         More broadly, I am interested in questions at the intersection of innovation, policy, and medicine.
 
         Please reach out to collaborate!
-        
+
     design:
       columns: '1'
   #- block: collection

@@ -11,11 +11,7 @@ last_name: Nguyen-Mason
 
 
 
-avatar:
-  shape: circle
-  size: xxl
 
-  
 # Status emoji
 status:
   icon: 

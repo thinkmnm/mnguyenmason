@@ -179,8 +179,8 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: French
-    percent: 20
+  #- name: 
+    #percent: 20
   #- name: Portuguese
     #percent: 25
 

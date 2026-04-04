@@ -17,7 +17,28 @@ publication_types: ["article"]
 publication: "Work in progress"
 publication_short: ""
 
-abstract: Does gender bias distort venture capital allocation in health? This paper uses gender homophily— the propensity of general partners (GPs) to fund same-gender entrepreneurs—to isolate inefficient bias from rational selection. This paper does this in two steps. First, a differences-in-differences– style specification is used to exploit within-city, over-time shifts in the share of women GPs while holding pre-investment costs (geographic distance, specialization mismatch) constant. Second, a test of differences in IPO and M&A outcomes is used to assess whether gender-concordant investments systematically outperform non-concordant investments. If not, observed homophily reflects inefficient bias rather than productive synergy. While controlling for pre-investment costs, moving a city’s GP mix from all men to all women increases the share of women-founded enterprises in first-round deals by 11.6 percentage points (95%). Not only do concordant investments not yield higher rates of IPO or M&A, but non-concordant investments are 50% more likely to IPO – evidence that homophily is driven by inefficient bias. Men and women GPs are leaving money on the table. Finally, the homophily effect is sensitive to changes in asymmetric information pointing to stereotyping under uncertainty rather than taste- based discrimination as the source of inefficiency.
+abstract: Does gender bias distort venture capital allocation in biomedicine? This paper examines
+ whether gender bias leads venture capital (VC) funds to systematically forgo profit in early-
+ stage biomedical investment. I study gender homophily, the tendency of general partners
+ (GPs) to invest in founders who share their gender, and deconstruct its underlying drivers
+ to distinguish rational selection from profit-forgoing bias. Using comprehensive data on U.S.
+ biomedical VC investments from 2005 to 2024, I proceed in three steps. First, exploiting
+ within-city, over-time variation in the gender composition of GPs and controlling for geo-
+ graphic distance, technological specialization, and shifts in potential founder supply, I show
+ that a one standard deviation increase in the share of GPs who are women is associated
+ with a 22 percent increase in the share of funded founders who are women in first-round
+ investments. Second, I test whether gender-concordant investments are more successful and
+ find the opposite. Gender-discordant investments are significantly more likely to exit via
+ IPO, with no corresponding difference in M&A rates, implying that both men and women
+ GPs leave money on the table. Third, I show that the homophily effect disappears in follow-
+ on rounds, when information about start-up quality is more readily available, consistent
+ with biased beliefs rather than taste-based discrimination. Finally, I document that women-
+ founded start-ups are substantially more likely to develop technologies addressing women’s
+ healthcare needs, raising concerns that gender bias may distort not only who is funded but
+ also which biomedical problems are prioritized. Together, the results indicate that gender
+ bias under uncertainty distorts capital allocation in biomedical entrepreneurship and may
+ contribute to underinvestment in women’s health technologies.
+
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.

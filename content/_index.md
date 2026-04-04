@@ -11,12 +11,9 @@ design:
 sections:
   - block: resume-biography-3
     content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: |-
         <a href="https://www.dropbox.com/scl/fi/czotoc62f11dp9klrgfi2/JMP_nguyenmason.pdf?rlkey=0oft7shnmbgqxv66vc85rt2vj&st=i47g8t6c&dl=0" class="inline-flex items-center px-4 py-2 text-sm font-medium text-white bg-primary-600 rounded-lg hover:bg-primary-700 no-underline" target="_blank" rel="noopener">Job Market Paper</a>
-       
-      # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
         url: uploads/mnguyenmason_cv_2025.pdf

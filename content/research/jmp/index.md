@@ -1,5 +1,5 @@
 ---
-title: Uncertain Science, Certain Bias - Decomposing Gender Homophily in VC Health Investment
+title: Uncertain Science, Certain Bias? Drivers of Same-Gender Investment in Biomedicine
 authors:
 - admin
 date: "2025-07-07T00:00:00Z"

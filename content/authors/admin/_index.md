@@ -66,7 +66,7 @@ education:
       - NBER visiting scholar (Health Economics)
       - ASHE 2025 Diversity Scholar 
       
-      Dissertation: "Does gender homophily matter for medical innovation? Evidence from VC investment in life sciences start-ups", advised by [Leila Agha](https://hcp.hms.harvard.edu/people/leila-agha), [Luca Maini](https://www.lucamaini.com/), and [Josh Lerner](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=9961)
+      Dissertation: "Distributional Causes and Consequences of Medical Innovation", advised by [Leila Agha](https://hcp.hms.harvard.edu/people/leila-agha), [Luca Maini](https://www.lucamaini.com/), and [Josh Lerner](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=9961)
 
     #button:
       #text: 'Read Thesis'

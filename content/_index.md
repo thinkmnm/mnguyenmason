@@ -77,7 +77,7 @@ sections:
     id: research
     content:
       title: Dissertation Research
-      text: "Essays on the economics of directed medical innovation"                     # optional intro
+      text: "Distributional Causes and Consequences of Medical Innovation"                     # optional intro
       filters:
         folders:
           - research        # path under content/

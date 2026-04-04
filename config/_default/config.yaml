@@ -47,7 +47,6 @@ taxonomies:
   tag: tags
   publication_type: publication_types
 markup:
-  _merge: deep
   goldmark:
     renderer:
       unsafe: true

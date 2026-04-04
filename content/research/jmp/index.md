@@ -35,7 +35,7 @@ featured: true
 links:
 #- name: Custom Link
  # url: http://example.org
-url_pdf: https://www.dropbox.com/scl/fi/uueujfmgiwh865jzwgzyi/JMP_NguyenMason.pdf?rlkey=ms7geetl3f64cf9ai5bjm5iys&st=68bkgmbu&dl=0
+url_pdf: https://www.dropbox.com/scl/fi/czotoc62f11dp9klrgfi2/JMP_nguyenmason.pdf?rlkey=0oft7shnmbgqxv66vc85rt2vj&st=2r93jo0s&dl=0
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: '#'
 #url_poster: '#'

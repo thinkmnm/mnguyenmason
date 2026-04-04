@@ -15,13 +15,14 @@ sections:
       username: admin
       text: ""
       
-      
       # Show a call-to-action button under your biography? (optional)
-      buttons:
-        - text: Download CV
-          url: uploads/mnguyenmason_cv_2025.pdf
-        - text: Job Market Paper
-          url: https://www.dropbox.com/scl/fi/czotoc62f11dp9klrgfi2/JMP_nguyenmason.pdf?rlkey=0oft7shnmbgqxv66vc85rt2vj&st=i47g8t6c&dl=0
+      button:
+        text: Download CV
+        url: uploads/mnguyenmason_cv_2025.pdf
+
+      button2:
+        text: Job Market Paper
+        url: https://www.dropbox.com/scl/fi/czotoc62f11dp9klrgfi2/JMP_nguyenmason.pdf?rlkey=0oft7shnmbgqxv66vc85rt2vj&st=i47g8t6c&dl=0
         
     design:
       css_class: dark
